@@ -18,3 +18,8 @@ A basic snake game that can be used for teaching purposes.
 
 # Future Plans for Snake
 Simplify the code to improve readability and easier to learn. Remove the score counter and color random background color change. Old versions saved in the Old Versions folder.
+
+# Basic Hello World Program
+```
+print("Hello World!")
+```
